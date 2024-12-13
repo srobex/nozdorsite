@@ -1,0 +1,9 @@
+/* assets/css/main.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ваши дополнительные стили */
+body {
+  font-family: 'Roboto', sans-serif;
+}
